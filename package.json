@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ElectricNinja315/Erised/issues"
   },
-  "homepage": "https://github.com/ElectricNinja315/Erised#readme"
+  "homepage": "https://github.com/ElectricNinja315/Erised#readme",
+  "dependencies": {
+    "browserify": "16.2.3"
+  }
 }
