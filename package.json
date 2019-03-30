@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ElectricNinja315/Erised#readme",
   "dependencies": {
-    "browserify": "16.2.3"
+    "browserify": "16.2.3",
+    "pdf-parse": "1.1.1"
   }
 }
